@@ -26,134 +26,146 @@ export interface linkGroup {
 ▀(@)▀▀▀▀▀▀▀(@)(@)▀▀▀▀▀▀▀▀▀▀▀▀▀​▀▀▀▀(@)▀
 */
 export const links: linkGroup[] = [
+[
   {
-    title: "Reddit",
-    links: [
+    "title": "Quick Access",
+    "links": [
       {
-        label: "r/startpages",
-        value: "https://www.reddit.com/r/startpages/",
+        "label": "Youtube",
+        "value": "https://www.youtube.com/feed/subscriptions"
       },
       {
-        label: "r/unixporn",
-        value: "https://www.reddit.com/r/unixporn/",
+        "label": "Anime",
+        "value": "https://aniwatch.to/home"
       },
       {
-        label: "r/rainmeter",
-        value: "https://www.reddit.com/r/rainmeter/",
+        "label": "ChatGPT",
+        "value": "https://chat.openai.com/"
       },
       {
-        label: "r/AnimalsBeingDerps",
-        value: "https://www.reddit.com/r/AnimalsBeingDerps/",
-      },
-    ],
+        "label": "Leanardo",
+        "value": "https://app.leonardo.ai"
+      }
+    ]
   },
   {
-    title: "3D Modelling",
-    links: [
+    "title": "Utils",
+    "links": [
       {
-        label: "Blender",
-        value: "https://www.blender.org/",
+        "label": "Wolfram-alpha",
+        "value": "https://www.wolframalpha.com"
       },
       {
-        label: "BlenderGuru",
-        value: "https://www.blenderguru.com/",
+        "label": "Desmos",
+        "value": "https://www.desmos.com/calculator"
       },
       {
-        label: "Poliigon",
-        value: "https://www.poliigon.com/",
+        "label": "Dice",
+        "value": "https://dice.clockworkmod.com"
       },
       {
-        label: "Blender tutorial",
-        value:
-          "https://www.youtube.com/watch?v=NyJWoyVx_XI&list=PLjEaoINr3zgEq0u2MzVgAaHEBt--xLB6U",
-      },
-      {
-        label: "The other Blender tutorial",
-        value:
-          "https://www.youtube.com/watch?v=bpvh-9H8S1g&list=PL8eKBkZzqDiU-qcoaghCz04sMitC1yx6k&index=1",
-      },
-    ],
+        "label": "Pastebin",
+        "value": "https://bin.savvyseventy7.win"
+      }
+    ]
   },
   {
-    title: "Design",
-    links: [
+    "title": "Server",
+    "links": [
       {
-        label: "PixlrX",
-        value: "https://pixlr.com/x/",
+        "label": "Portaniner",
+        "value": "https://192.168.0.100:9443"
       },
       {
-        label: "AI Image Enlarger",
-        value: "https://bigjpg.com/en",
+        "label": "BitWarden",
+        "value": "https://pwd.savvyseventy7.win/#/"
       },
       {
-        label: "Img to Svg Converter",
-        value: "https://picsvg.com/",
+        "label": "CloudFlare 0dash",
+        "value": "https://one.dash.cloudflare.com/cf1718dbf17bac91e28d81c278ff71c4/access/tunnels"
       },
       {
-        label: "Affinity",
-        value: "https://affinity.serif.com/en-us/tutorials/designer/desktop/",
+        "label": "Nextcloud",
+        "value": "https://nxt.savvyseventy7.win"
       },
       {
-        label: "Affinity - YT",
-        value: "https://www.youtube.com/c/AffinityRevolution/playlists",
-      },
-    ],
+        "label": "router",
+        "value": "http://192.168.0.1/"
+      }
+    ]
   },
   {
-    title: "Music",
-    links: [
+    "title": "Minecraft",
+    "links": [
       {
-        label: "i wanna be a cowboy",
-        value: "https://www.youtube.com/watch?v=8zWz92f_HGs",
+        "label": "Aternos",
+        "value": "https://aternos.org/server/"
       },
       {
-        label: "let the bodies hit the floor",
-        value: "https://www.youtube.com/watch?v=b--VKaCB9u0",
+        "label": "Minecraft wiki",
+        "value": "https://minecraft.wiki"
       },
       {
-        label: "Nobody Kanna Cross It",
-        value: "https://www.youtube.com/watch?v=2wqTnwJGvtc",
-      },
-      {
-        label: "Smug Dancin",
-        value: "https://www.youtube.com/watch?v=eNZ9Od1jQ4Q",
-      },
-      {
-        label: "Utamaru - The Sanctified Mind Cover",
-        value: "https://www.youtube.com/watch?v=MHlJKLlS07U",
-      },
-    ],
+        "label": "Vanillia tweaks",
+        "value": "https://vanillatweaks.net"
+      }
+    ]
   },
   {
-    title: "Sauce",
-    links: [
+    "title": "Linux stuff",
+    "links": [
       {
-        label: "Pictures - DeathAndMilk",
-        value: "https://www.instagram.com/deathandmilk_/",
+        "label": "Aur",
+        "value": "https://aur.archlinux.org"
       },
       {
-        label: "Icons - FontAwesome",
-        value: "https://fontawesome.com/icons",
+        "label": "Endeavor web",
+        "value": "https://endeavouros.com"
       },
       {
-        label: "Text Flicker - CodeMyUI",
-        value:
-          "https://codemyui.com/crt-screen-text-flicker-animation-in-pure-css/",
+        "label": "Endeavor wiki",
+        "value": "https://discovery.endeavouros.com/wiki/"
       },
       {
-        label: "Wave Animation - mburakerman",
-        value: "https://codepen.io/mburakerman/pen/eRZZEv",
+        "label": "Arch wiki",
+        "value": "https://wiki.archlinux.org"
       },
       {
-        label: "Da real sauce ԅ(♡﹃♡ԅ)",
-        value: "https://www.youtube.com/watch?v=qr89xoZyE1g",
+        "label": "Flathub",
+        "value": "https://flathub.org"
       },
       {
-        label: "Even more real sauce ( ͡° ͜ʖ ͡°)",
-        value: "https://www.youtube.com/watch?v=VLhJOd_TFiI",
-      },
-    ],
+        "label": "Gentoo handbook",
+        "value": "https://wiki.gentoo.org/wiki/Handbook:Main_Page"
+      }
+    ]
   },
+  {
+    "title": "Rice stuff",
+    "links": [
+      {
+        "label": "term colors",
+        "value": "https://terminal.sexy"
+      },
+      {
+        "label": "Rosepine",
+        "value": "https://rosepinetheme.com"
+      }
+    ]
+  },
+  {
+    "title": "Resources",
+    "links": [
+      {
+        "label": "Startpage",
+        "value": "https://github.com/PrettyCoffee/fluidity"
+      },
+      {
+        "label": "Temp2",
+        "value": "website"
+      }
+    ]
+  }
 ]
 
 export const images: dataElem[] = [
